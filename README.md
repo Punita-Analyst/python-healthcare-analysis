@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="healthcare_logo.png" width="200">
+  <img src="Healthcare_logo.png" width="200">
 </p>
 
 #  Healthcare Data Analysis (Python Project)
